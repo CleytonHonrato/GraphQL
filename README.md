@@ -1,4 +1,3 @@
 # GraphQL
-# GraphQL
-# GraphQL
-# GraphQL
+
+Estudo inicial de GraphQL
